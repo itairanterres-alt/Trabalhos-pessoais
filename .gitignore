@@ -1,0 +1,4 @@
+# Cache local de imagens descarregadas (não versionar — pode ficar grande)
+cache/
+__pycache__/
+*.pyc
