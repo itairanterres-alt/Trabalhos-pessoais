@@ -55,6 +55,14 @@ Uso
     #    pages.js do livro:
     python3 aa_crop_tool.py manifest --livro FAL-HT-PEDROMIGUEL-C-1641-1712
 
+    # 4) baixar um intervalo inteiro de fólios de uma só vez e gravar numa
+    #    pasta — tipicamente uma pasta sincronizada do Google Drive/OneDrive,
+    #    para que o Claude (rodando em nuvem, sem acesso ao seu disco) possa
+    #    ler o lote inteiro pelo conector de nuvem, sem transferir nada pelo
+    #    chat imagem a imagem:
+    python3 aa_crop_tool.py batch --livro FAL-HT-PEDROMIGUEL-C-1641-1712 \
+        --images 0001-0050 --out-dir "G:\Meu Drive\CulturAcores\PedroMiguel"
+
 Todas as imagens descarregadas ficam em ./cache/<LIVRO>/<LIVRO>_<NNNN>.jpg
 — apague essa pasta se quiser forçar um novo download.
 """
@@ -183,6 +191,67 @@ def cmd_crop(args):
     )
 
 
+def parse_image_list(spec: str):
+    """Interpreta '--images' em números de imagem (zero-padded a 4 dígitos),
+    aceitando intervalos ('0001-0050'), listas ('0021,0022,0025') e
+    combinações ('0001-0010,0015,0020-0025'). Devolve lista ordenada e sem
+    duplicados."""
+    nums = set()
+    for chunk in spec.split(","):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if "-" in chunk:
+            a, b = chunk.split("-", 1)
+            a, b = int(a), int(b)
+            if a > b:
+                a, b = b, a
+            nums.update(range(a, b + 1))
+        else:
+            nums.add(int(chunk))
+    return [str(n).zfill(4) for n in sorted(nums)]
+
+
+def cmd_batch(args):
+    image_nums = parse_image_list(args.images)
+    if not image_nums:
+        sys.exit("--images não produziu nenhum número de imagem válido")
+    out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    print(f"  {len(image_nums)} página(s) a processar; destino: {out_dir}")
+
+    ok, failed = [], []
+    for image_num in image_nums:
+        print(f"[{image_num}]")
+        try:
+            img = get_page_image(args.livro, image_num)
+        except Exception as e:
+            print(f"  FALHOU: {e}", file=sys.stderr)
+            failed.append(image_num)
+            continue
+
+        out_img = img
+        if args.scale != 1.0:
+            out_img = img.resize(
+                (max(1, int(img.width * args.scale)), max(1, int(img.height * args.scale))),
+                Image.LANCZOS,
+            )
+        out_path = out_dir / f"{args.livro}_{image_num}.jpg"
+        out_img.save(out_path, quality=90)
+        print(f"  escrito: {out_path}  ({out_img.width}x{out_img.height})")
+
+        if args.grid:
+            grid_img = draw_grid(out_img, native_size=(img.width, img.height), scale=args.scale, step=args.grid_step)
+            grid_path = out_dir / f"{args.livro}_{image_num}_grid.jpg"
+            grid_img.save(grid_path, quality=90)
+            print(f"  escrito: {grid_path}")
+        ok.append(image_num)
+
+    print(f"\n  concluído: {len(ok)} ok, {len(failed)} falha(s).")
+    if failed:
+        print(f"  falharam: {', '.join(failed)}", file=sys.stderr)
+
+
 def cmd_manifest(args):
     url = manifest_url(args.livro)
     print(f"  a descarregar manifesto {url}")
@@ -233,6 +302,18 @@ def main():
     p_crop.add_argument("--scale", type=float, default=8.0)
     p_crop.add_argument("--out", required=True)
     p_crop.set_defaults(func=cmd_crop)
+
+    p_batch = sub.add_parser(
+        "batch",
+        help="baixar um intervalo de páginas de uma vez e gravar numa pasta (ex.: pasta sincronizada do Google Drive)",
+    )
+    p_batch.add_argument("--livro", required=True)
+    p_batch.add_argument("--images", required=True, help="ex.: 0001-0050  ou  0021,0022,0025  ou  0001-0010,0020")
+    p_batch.add_argument("--out-dir", required=True, dest="out_dir")
+    p_batch.add_argument("--scale", type=float, default=1.0)
+    p_batch.add_argument("--grid", action="store_true", help="gravar também uma versão com grelha de cada página")
+    p_batch.add_argument("--grid-step", type=int, default=100, dest="grid_step")
+    p_batch.set_defaults(func=cmd_batch)
 
     p_man = sub.add_parser("manifest", help="listar o manifesto pages.js do livro (se existir)")
     p_man.add_argument("--livro", required=True)
