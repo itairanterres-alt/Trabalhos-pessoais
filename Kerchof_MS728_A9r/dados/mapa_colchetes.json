@@ -1,0 +1,360 @@
+[
+ {
+  "divisa": "C01/C02",
+  "id": 21311,
+  "y0": 867,
+  "y1": 3774,
+  "prog": "C01-V01",
+  "via": "sobreposição",
+  "filhos": [
+   "C02-V02",
+   "C02-V03",
+   "C02-V04",
+   "C02-V05",
+   "C02-V06",
+   "C02-V07"
+  ]
+ },
+ {
+  "divisa": "C02/C03",
+  "id": 19566,
+  "y0": 703,
+  "y1": 1247,
+  "prog": "C02-V02",
+  "via": "sobreposição",
+  "filhos": [
+   "C03-V04",
+   "C03-V05"
+  ]
+ },
+ {
+  "divisa": "C02/C03",
+  "id": 25436,
+  "y0": 1244,
+  "y1": 2007,
+  "prog": "C02-V04",
+  "via": "sobreposição",
+  "filhos": [
+   "C03-V06",
+   "C03-V07"
+  ]
+ },
+ {
+  "divisa": "C02/C03",
+  "id": 33013,
+  "y0": 2115,
+  "y1": 2366,
+  "prog": "C02-V05",
+  "via": "sobreposição",
+  "filhos": [
+   "C03-V08"
+  ]
+ },
+ {
+  "divisa": "C02/C03",
+  "id": 35593,
+  "y0": 2450,
+  "y1": 3953,
+  "prog": "C02-V07",
+  "via": "cusp",
+  "filhos": [
+   "C03-V10",
+   "C03-V11",
+   "C03-V12"
+  ]
+ },
+ {
+  "divisa": "C03/C04",
+  "id": 14213,
+  "y0": 172,
+  "y1": 2146,
+  "prog": "C03-V02",
+  "via": "sobreposição",
+  "filhos": [
+   "C04-V02",
+   "C04-V03",
+   "C04-V04",
+   "C04-V05",
+   "C04-V06"
+  ]
+ },
+ {
+  "divisa": "C03/C04",
+  "id": 33360,
+  "y0": 2162,
+  "y1": 3289,
+  "prog": "C03-V08",
+  "via": "sobreposição",
+  "filhos": [
+   "C04-V07",
+   "C04-V08"
+  ]
+ },
+ {
+  "divisa": "C03/C04",
+  "id": 43058,
+  "y0": 3301,
+  "y1": 3574,
+  "prog": "C03-V11",
+  "via": "sobreposição",
+  "filhos": [
+   "C04-V09"
+  ]
+ },
+ {
+  "divisa": "C03/C04",
+  "id": 45249,
+  "y0": 3575,
+  "y1": 3764,
+  "prog": "C03-V11",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C04/C05",
+  "id": 17168,
+  "y0": 457,
+  "y1": 637,
+  "prog": "C04-V02",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C04/C05",
+  "id": 19158,
+  "y0": 660,
+  "y1": 2128,
+  "prog": "C04-V03",
+  "via": "sobreposição",
+  "filhos": [
+   "C05-V03",
+   "C05-V04",
+   "C05-V05",
+   "C05-V06"
+  ]
+ },
+ {
+  "divisa": "C04/C05",
+  "id": 33336,
+  "y0": 2159,
+  "y1": 2790,
+  "prog": "C04-V08",
+  "via": "cusp",
+  "filhos": [
+   "C05-V07",
+   "C05-V08"
+  ]
+ },
+ {
+  "divisa": "C04/C05",
+  "id": 38682,
+  "y0": 2801,
+  "y1": 3687,
+  "prog": "C04-V09",
+  "via": "cusp",
+  "filhos": [
+   "C05-V09"
+  ]
+ },
+ {
+  "divisa": "C05/C06",
+  "id": 15827,
+  "y0": 325,
+  "y1": 545,
+  "prog": "C05-V02",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C05/C06",
+  "id": 20651,
+  "y0": 802,
+  "y1": 1052,
+  "prog": "C05-V03",
+  "via": "sobreposição",
+  "filhos": [
+   "C06-V04"
+  ]
+ },
+ {
+  "divisa": "C05/C06",
+  "id": 23957,
+  "y0": 1106,
+  "y1": 1570,
+  "prog": "C05-V04",
+  "via": "cusp",
+  "filhos": [
+   "C06-V05"
+  ]
+ },
+ {
+  "divisa": "C05/C06",
+  "id": 28679,
+  "y0": 1594,
+  "y1": 1854,
+  "prog": "C05-V05",
+  "via": "sobreposição",
+  "filhos": [
+   "C06-V06"
+  ]
+ },
+ {
+  "divisa": "C05/C06",
+  "id": 32531,
+  "y0": 2052,
+  "y1": 3130,
+  "prog": "C05-V09",
+  "via": "cusp",
+  "filhos": [
+   "C06-V07",
+   "C06-V08",
+   "C06-V09"
+  ]
+ },
+ {
+  "divisa": "C06/C07",
+  "id": 14248,
+  "y0": 175,
+  "y1": 491,
+  "prog": "C06-V02",
+  "via": "sobreposição",
+  "filhos": [
+   "C07-V02",
+   "C07-V03"
+  ]
+ },
+ {
+  "divisa": "C06/C07",
+  "id": 23752,
+  "y0": 1087,
+  "y1": 2213,
+  "prog": "C06-V07",
+  "via": "cusp",
+  "filhos": [
+   "C07-V04"
+  ]
+ },
+ {
+  "divisa": "C06/C07",
+  "id": 34313,
+  "y0": 2285,
+  "y1": 2703,
+  "prog": "C06-V07",
+  "via": "sobreposição",
+  "filhos": [
+   "C07-V05"
+  ]
+ },
+ {
+  "divisa": "C07/C08",
+  "id": 20965,
+  "y0": 833,
+  "y1": 1280,
+  "prog": "C07-V04",
+  "via": "cusp",
+  "filhos": [
+   "C08-V02"
+  ]
+ },
+ {
+  "divisa": "C07/C08",
+  "id": 26997,
+  "y0": 1413,
+  "y1": 1691,
+  "prog": "C07-V04",
+  "via": "sobreposição",
+  "filhos": [
+   "C08-V03"
+  ]
+ },
+ {
+  "divisa": "C07/C08",
+  "id": 29976,
+  "y0": 1745,
+  "y1": 2192,
+  "prog": "C07-V04",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C07/C08",
+  "id": 33885,
+  "y0": 2230,
+  "y1": 2420,
+  "prog": "C07-V05",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C07/C08",
+  "id": 35437,
+  "y0": 2427,
+  "y1": 3463,
+  "prog": "C07-V05",
+  "via": "sobreposição",
+  "filhos": [
+   "C08-V05",
+   "C08-V06"
+  ]
+ },
+ {
+  "divisa": "C08/C09",
+  "id": 19593,
+  "y0": 705,
+  "y1": 940,
+  "prog": "C08-V02",
+  "via": "sobreposição",
+  "filhos": [
+   "C09-V02"
+  ]
+ },
+ {
+  "divisa": "C08/C09",
+  "id": 22064,
+  "y0": 935,
+  "y1": 1123,
+  "prog": "C08-V02",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C08/C09",
+  "id": 37464,
+  "y0": 2658,
+  "y1": 2912,
+  "prog": "C08-V05",
+  "via": "cusp",
+  "filhos": [
+   "C09-V05"
+  ]
+ },
+ {
+  "divisa": "C08/C09",
+  "id": 39773,
+  "y0": 2923,
+  "y1": 3194,
+  "prog": "C08-V06",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C09/C10",
+  "id": 19340,
+  "y0": 682,
+  "y1": 1089,
+  "prog": "C09-V02",
+  "via": "sobreposição",
+  "filhos": []
+ },
+ {
+  "divisa": "C09/C10",
+  "id": 28471,
+  "y0": 1571,
+  "y1": 2062,
+  "prog": "C09-V03",
+  "via": "cusp",
+  "filhos": [
+   "C10-V02"
+  ]
+ }
+]

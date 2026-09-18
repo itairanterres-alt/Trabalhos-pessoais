@@ -1,0 +1,2264 @@
+{
+ "fonte": "Openbare Bibliotheek Brugge, ms. 728 (Kerchof), entrada Aertrycke, folio A9r",
+ "catalogo_AT01": "VA-EXT-039 (fonte); VA-EXT-038 (inventario Donche 2015); fichamento R19-17",
+ "versao": "0.2 — FÓLIO COMPLETO",
+ "data": "2026-09-18",
+ "cobertura_folio_pct": 100.0,
+ "tiles_recebidos": [
+  "R1C1",
+  "R1C2",
+  "R1C3",
+  "R1C4",
+  "R2C1",
+  "R2C2",
+  "R2C3",
+  "R2C4",
+  "R3C1",
+  "R3C2",
+  "R3C3",
+  "R3C4"
+ ],
+ "tiles_ausentes": [],
+ "faixas_nao_vistas_px": [],
+ "colunas_px": {
+  "C1": [
+   100,
+   480
+  ],
+  "C2": [
+   480,
+   928
+  ],
+  "C3": [
+   928,
+   1420
+  ],
+  "C4": [
+   1420,
+   1912
+  ],
+  "C5": [
+   1912,
+   2440
+  ],
+  "C6": [
+   2440,
+   2980
+  ],
+  "C7": [
+   2980,
+   3488
+  ],
+  "C8": [
+   3488,
+   3940
+  ],
+  "C9": [
+   3940,
+   4392
+  ],
+  "C10": [
+   4392,
+   5100
+  ]
+ },
+ "aviso_estrutural": "As ligacoes PAI-FILHO entre colunas NAO foram estabelecidas nesta versao. Só estao registradas as relacoes que o proprio manuscrito enuncia por escrito (irmao, bastardo de, dont X, filha de) e os agrupamentos que um MESMO colchete reune. O tracado dos conectores entre colunas exige passagem dedicada e os 3 tiles ausentes.",
+ "individuos": [
+  {
+   "K_ID": "K001",
+   "coluna": 1,
+   "nome_original": "Simon van aertrijcke",
+   "nome_normalizado": "Simon van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin de Bruges",
+   "conjuges": [
+    "K002"
+   ],
+   "datas": "1331",
+   "observacoes": "Armas da esposa descritas ao lado: «croix d'or, accomp. de 20 billettes de mesme»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K002",
+   "coluna": 1,
+   "nome_original": "[nome em branco] fi.a Bernard dop[?]",
+   "nome_normalizado": "[?] , filha de Bernard D'Op[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K001"
+   ],
+   "datas": "",
+   "observacoes": "Kerchof deixou o prenome em branco (pontilhado). Patronimo «dop»/«d'Op» incerto",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K003",
+   "coluna": 2,
+   "nome_original": "Simon van aertrijcke bourgmr de Bruges",
+   "nome_normalizado": "Simon van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "bourgmestre de Bruges",
+   "conjuges": [
+    "K004"
+   ],
+   "datas": "m. 1360",
+   "observacoes": "«Il mourut 1360, gist a S[t] Sauveur devant el grand autel»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K004",
+   "coluna": 2,
+   "nome_original": "Hab[i]ter[?] fi.a messire pieter q. de maldeghem",
+   "nome_normalizado": "[Ha]biter[?] de Maldeghem",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K003"
+   ],
+   "datas": "",
+   "observacoes": "filha de messire Pieter [quondam] de Maldeghem",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K005",
+   "coluna": 2,
+   "nome_original": "gi'ellis d'aertrijcke bourgmr de Bruges 1333",
+   "nome_normalizado": "Gillis/Ghiselin d'Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "bourgmestre de Bruges",
+   "conjuges": [],
+   "datas": "1333",
+   "observacoes": "Sem esposa e sem filhos desenhados no fólio",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K006",
+   "coluna": 2,
+   "nome_original": "Ligaarde aertrijcke",
+   "nome_normalizado": "Ligarde van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K007"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K007",
+   "coluna": 2,
+   "nome_original": "Jan al bendonc[?] filz de Jacq.",
+   "nome_normalizado": "Jan Al[be]ndonc[?], filho de Jacques",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K006"
+   ],
+   "datas": "",
+   "observacoes": "Sobrenome do marido de leitura incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K008",
+   "coluna": 2,
+   "nome_original": "cath. aertrijcke relig. a S[t]e claire a gand",
+   "nome_normalizado": "Catherine van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "religiosa, Ste-Claire, Gand",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K009",
+   "coluna": 2,
+   "nome_original": "Bernard van aertrijcke eschevin de Bruges",
+   "nome_normalizado": "Bernard van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin de Bruges",
+   "conjuges": [
+    "K010",
+    "K011"
+   ],
+   "datas": "",
+   "observacoes": "Dois casamentos declarados",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K010",
+   "coluna": 2,
+   "nome_original": "marie bonin fi.a Lambert",
+   "nome_normalizado": "Marie Bonin",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K009"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K011",
+   "coluna": 2,
+   "nome_original": "Cecilie de Rechteberghe fi.a Gilles",
+   "nome_normalizado": "Cecilie de Rechteberghe",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K009"
+   ],
+   "datas": "",
+   "observacoes": "Linha final do verbete ilegivel: «alli[e]/enterr[e] a +de doussy[?]»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K012",
+   "coluna": 3,
+   "nome_original": "messire pieter van aertrijcke",
+   "nome_normalizado": "Pieter van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "messire",
+   "conjuges": [
+    "K013",
+    "K014"
+   ],
+   "datas": "",
+   "observacoes": "«gist [aupres?] de son pere» — leitura incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K013",
+   "coluna": 3,
+   "nome_original": "[em branco] Utenhove",
+   "nome_normalizado": "[?] Utenhove",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K012"
+   ],
+   "datas": "",
+   "observacoes": "1º casamento; prenome em branco",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K014",
+   "coluna": 3,
+   "nome_original": "[em branco]",
+   "nome_normalizado": "[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K012"
+   ],
+   "datas": "",
+   "observacoes": "2º casamento; nome inteiramente em branco",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K015",
+   "coluna": 3,
+   "nome_original": "Loijs van aertrijcke",
+   "nome_normalizado": "Loijs van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "«dont Jean» — declara um filho chamado Jean (K016)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K016",
+   "coluna": 3,
+   "nome_original": "Jean",
+   "nome_normalizado": "Jean van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filho de K015, declarado por «dont Jean»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K017",
+   "coluna": 3,
+   "nome_original": "Beatrix d'aertrijcke",
+   "nome_normalizado": "Beatrix d'Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K018"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K018",
+   "coluna": 3,
+   "nome_original": "andrieu Bardelaes[?]",
+   "nome_normalizado": "Andrieu Bardelaes[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K017"
+   ],
+   "datas": "m. 1342",
+   "observacoes": "«mort 1342, gist au chapitre des jacobins»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K019",
+   "coluna": 3,
+   "nome_original": "Jan albendo.cn[?]",
+   "nome_normalizado": "Jan Al[be]ndonc[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Ocorrencia homonima de K007 — NAO fundir sem prova",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K020",
+   "coluna": 3,
+   "nome_original": "marie relig. a sp. damai[?]der",
+   "nome_normalizado": "Marie",
+   "sexo": "F",
+   "cargo_estado": "religiosa",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Casa religiosa de leitura incerta",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K021",
+   "coluna": 3,
+   "nome_original": "Isabelle",
+   "nome_normalizado": "Isabelle",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Nome isolado sob colchete",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K022",
+   "coluna": 3,
+   "nome_original": "Jan van aertrijcke tresorier de Bruges",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "tresorier de Bruges",
+   "conjuges": [
+    "K023"
+   ],
+   "datas": "1363;1393",
+   "observacoes": "Rubrica «1. Lict». «mort 1363 et luij 1393»; doacao a Bruges a entrada da igreja e aniversario",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K023",
+   "coluna": 3,
+   "nome_original": "Hab[i]er[?] de [H]aeslan[?] fi.a robert",
+   "nome_normalizado": "[?] de Ha[e]slant[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K022"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K024",
+   "coluna": 3,
+   "nome_original": "georges van aertrijcke eschevin de Bruges",
+   "nome_normalizado": "Georges van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin de Bruges",
+   "conjuges": [],
+   "datas": "1356",
+   "observacoes": "RELACAO EXPLICITA: «fut tuteur des infans de Simon son frere» — irmao de um Simon",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K025",
+   "coluna": 3,
+   "nome_original": "Jan van aertrijcke",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K0251"
+   ],
+   "datas": "ob. 1355",
+   "observacoes": "Rubrica «2. Lict»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K0251",
+   "coluna": 3,
+   "nome_original": "Barbe[?] de [T]olpelar[?] fi.a guill[aum]e[?]",
+   "nome_normalizado": "[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K025"
+   ],
+   "datas": "",
+   "observacoes": "Leitura do sobrenome muito incerta",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K026",
+   "coluna": 3,
+   "nome_original": "Simon van aertrijcke",
+   "nome_normalizado": "Simon van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "ob. 1371",
+   "observacoes": "«ob. [i]a dô 1371»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K027",
+   "coluna": 3,
+   "nome_original": "Cath. aertrijcke",
+   "nome_normalizado": "Catherine van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K0271"
+   ],
+   "datas": "1391/1395[?]",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K0271",
+   "coluna": 3,
+   "nome_original": "Jan van R[e]chte[r]berghe fi.z Bartholomé",
+   "nome_normalizado": "Jan van Re[ch]te[r]berghe[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K027"
+   ],
+   "datas": "m. 1391/1395[?]",
+   "observacoes": "Ano final de leitura incerta; «gist au Beguinage[?]»",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K028",
+   "coluna": 4,
+   "nome_original": "[X]poffer[?]/pieter van aertrijcke",
+   "nome_normalizado": "Christoffel[?] / Pieter van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K029w"
+   ],
+   "datas": "",
+   "observacoes": "Rubrica «1. Lict». Ha uma INSERCAO SUPERSCRITA «xpoffer» (=Christoffel) sobre o nome — Kerchof corrigiu ou acrescentou. «gist aux augustins»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K029w",
+   "coluna": 4,
+   "nome_original": "Loijse mettencije[?] fi.a Jan et d'Isabeau Buly[?]",
+   "nome_normalizado": "Loijse Metteneye[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K028"
+   ],
+   "datas": "",
+   "observacoes": "Sobrenome lido como Metteneye com reserva",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K029",
+   "coluna": 4,
+   "nome_original": "Jan van aertrijcke sr. de Tillegem",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "seigneur de Tillegem",
+   "conjuges": [
+    "K030",
+    "K031"
+   ],
+   "datas": "",
+   "observacoes": "PRIMEIRO individuo que Kerchof chama senhor de Tillegem no fólio (col.4)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K030",
+   "coluna": 4,
+   "nome_original": "Walburge van de Walle fi.a Sohier[?]",
+   "nome_normalizado": "Walburga van de Walle",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K029"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K031",
+   "coluna": 4,
+   "nome_original": "Marg[uerit]e [em branco]",
+   "nome_normalizado": "Marguerite [?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K029"
+   ],
+   "datas": "",
+   "observacoes": "2º casamento («Il sp. 2º»)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K032",
+   "coluna": 4,
+   "nome_original": "Amand d'aertrijcke Sr. de Maldeghem",
+   "nome_normalizado": "Amand d'Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "seigneur de Maldeghem",
+   "conjuges": [
+    "K033"
+   ],
+   "datas": "",
+   "observacoes": "Rubrica «2. Lict». «gist a S[t] Sauveur a Bruges»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K033",
+   "coluna": 4,
+   "nome_original": "anne de Vleeschhauwer",
+   "nome_normalizado": "Anne de Vleeschauwer",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K032"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K034",
+   "coluna": 4,
+   "nome_original": "marg[uerit]e qui sp. Loijs van der Straeten",
+   "nome_normalizado": "Marguerite d'Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K034m"
+   ],
+   "datas": "",
+   "observacoes": "«dont Marguerite qui sp. Loijs van der Straeten» — filiacao declarada no proprio verbete",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K034m",
+   "coluna": 4,
+   "nome_original": "Loijs van der Straeten",
+   "nome_normalizado": "Loijs van der Straeten",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K034"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K035",
+   "coluna": 4,
+   "nome_original": "robert",
+   "nome_normalizado": "Robert van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "«ob. s. Inf.» (sem descendencia). «gist pres de sa mere a la cimetiere de S[t] Donas»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K036",
+   "coluna": 4,
+   "nome_original": "bernard aertrijcke",
+   "nome_normalizado": "Bernard van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K037"
+   ],
+   "datas": "",
+   "observacoes": "«s. Inf.» de K037; «Il eut une fille bastarde Alexandrine»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K037",
+   "coluna": 4,
+   "nome_original": "Isabelle bonin fi.a thomas",
+   "nome_normalizado": "Isabelle Bonin",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K036"
+   ],
+   "datas": "",
+   "observacoes": "LEITURA CORRIGIDA: antes lida «de Comines»; o fólio traz «Bonin», como em K010",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K038",
+   "coluna": 4,
+   "nome_original": "alexandrine",
+   "nome_normalizado": "Alexandrine van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "beguina",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "DECLARADA BASTARDA de K036 («une fille bastarde»)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K039",
+   "coluna": 4,
+   "nome_original": "georges aertrijcke eschevin de Bruges",
+   "nome_normalizado": "Georges van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin de Bruges",
+   "conjuges": [
+    "K040"
+   ],
+   "datas": "1378",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K040",
+   "coluna": 4,
+   "nome_original": "cornelie a[l]soens[?] fi.a olivier",
+   "nome_normalizado": "Cornelie Alsoens[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K039"
+   ],
+   "datas": "",
+   "observacoes": "Leitura do sobrenome incerta no manuscrito",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K041",
+   "coluna": 5,
+   "nome_original": "ᵽhls van aertrijcke bourgmr de Bruges",
+   "nome_normalizado": "Philips van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "bourgmestre de Bruges",
+   "conjuges": [
+    "K042"
+   ],
+   "datas": "m. 1461",
+   "observacoes": "«Il mourut 1461. gist a N[ost]re Dame a Bruges»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K042",
+   "coluna": 5,
+   "nome_original": "anne fi.a eustache Reindricx[?]",
+   "nome_normalizado": "Anne Reindricx[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K041"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K043",
+   "coluna": 5,
+   "nome_original": "Jan van aertrijcke sr. de Tilleghem",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "seigneur de Tillegem",
+   "conjuges": [
+    "K044"
+   ],
+   "datas": "",
+   "observacoes": "Rubrica «1. Lict». SEGUNDO senhor de Tillegem no fólio, em coluna posterior a K029",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K044",
+   "coluna": 5,
+   "nome_original": "cath. metteneije fi.a pieter",
+   "nome_normalizado": "Catherine Metteneye",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K043"
+   ],
+   "datas": "",
+   "observacoes": "«gist aux augustins a Bruges»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K045",
+   "coluna": 5,
+   "nome_original": "mad loijse van aertrijcke",
+   "nome_normalizado": "Loijse van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "«gist a S[t] Michel lez Bruges»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K046",
+   "coluna": 5,
+   "nome_original": "ᵽhls d'aertrijcke",
+   "nome_normalizado": "Philips d'Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Esposa em branco (pontilhado)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K047",
+   "coluna": 5,
+   "nome_original": "[Ha]beau[?]",
+   "nome_normalizado": "[Ha]beau[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K047a",
+    "K047b"
+   ],
+   "datas": "",
+   "observacoes": "Dois casamentos declarados",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K047a",
+   "coluna": 5,
+   "nome_original": "Jan van der muelen conseiller de flandres",
+   "nome_normalizado": "Jan van der Muelen",
+   "sexo": "M",
+   "cargo_estado": "conseiller de Flandres",
+   "conjuges": [
+    "K047"
+   ],
+   "datas": "",
+   "observacoes": "1º marido",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K047b",
+   "coluna": 5,
+   "nome_original": "andrieu van Roonenbeke",
+   "nome_normalizado": "Andrieu van Roonenbeke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K047"
+   ],
+   "datas": "",
+   "observacoes": "2º marido",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K048",
+   "coluna": 5,
+   "nome_original": "Jehenne[?]",
+   "nome_normalizado": "Jehenne[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K048m"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K048m",
+   "coluna": 5,
+   "nome_original": "Balduin[?] ... prevost a Lille",
+   "nome_normalizado": "Bal[d]uin[?]",
+   "sexo": "M",
+   "cargo_estado": "prevost a Lille",
+   "conjuges": [
+    "K048"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K049",
+   "coluna": 5,
+   "nome_original": "Jan van aertrijcke",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Rubrica «2. Lict»; sem mais dados",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K050",
+   "coluna": 5,
+   "nome_original": "Jadequet[?]/Jacquet van aertrijcke",
+   "nome_normalizado": "Jacques van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin",
+   "conjuges": [
+    "1416"
+   ],
+   "datas": "1416",
+   "observacoes": "«eschevin en 1416»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K051",
+   "coluna": 5,
+   "nome_original": "george aertrijcke",
+   "nome_normalizado": "Georges van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "1413",
+   "observacoes": "Apenas nome e ano",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K052",
+   "coluna": 5,
+   "nome_original": "Jan van aertrijcke eschevin de Bruges",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "eschevin de Bruges",
+   "conjuges": [],
+   "datas": "1441",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K053",
+   "coluna": 6,
+   "nome_original": "ᵽhll[e] aertrijcke",
+   "nome_normalizado": "Philippe[?] van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K054w"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K054w",
+   "coluna": 6,
+   "nome_original": "marie van de Bossijne[?] fi.a eustache",
+   "nome_normalizado": "Marie van de Bossijne[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K053"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K054",
+   "coluna": 6,
+   "nome_original": "ᵽhll d'aertrijcke",
+   "nome_normalizado": "Philippe[?] d'Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Primeiro de uma lista de 5 irmaos sob colchete unico",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K055",
+   "coluna": 6,
+   "nome_original": "thomas",
+   "nome_normalizado": "Thomas van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "irmao (mesmo colchete de K054)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K056",
+   "coluna": 6,
+   "nome_original": "Jehan",
+   "nome_normalizado": "Jehan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "irmao (mesmo colchete)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K057",
+   "coluna": 6,
+   "nome_original": "Loijs",
+   "nome_normalizado": "Loijs van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "irmao (mesmo colchete)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K058",
+   "coluna": 6,
+   "nome_original": "Bernard",
+   "nome_normalizado": "Bernard van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "irmao (mesmo colchete)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K059",
+   "coluna": 6,
+   "nome_original": "pierend[?] pardvoss[?] relig.",
+   "nome_normalizado": "[?]",
+   "sexo": "",
+   "cargo_estado": "religioso/a",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Leitura muito incerta",
+   "grau_certeza_estrutura": "baixa",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K060",
+   "coluna": 6,
+   "nome_original": "Loijs",
+   "nome_normalizado": "Loijs",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K061",
+   "coluna": 6,
+   "nome_original": "Bartholomé du [?]",
+   "nome_normalizado": "Bartholomé",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K061w"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K061w",
+   "coluna": 6,
+   "nome_original": "eustache Rollebeghe[?] fi.z guils[?]aerin",
+   "nome_normalizado": "[?] Rollebeke[?]",
+   "sexo": "",
+   "cargo_estado": "",
+   "conjuges": [
+    "K061"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K062",
+   "coluna": 6,
+   "nome_original": "Nicolas van aertrijcke",
+   "nome_normalizado": "Nicolas van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K062w"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K062w",
+   "coluna": 6,
+   "nome_original": "Jehanne veld[?]s fi.a gauthier de [?] a Papinjcke[?]",
+   "nome_normalizado": "Jehanne [?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K062"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K063",
+   "coluna": 6,
+   "nome_original": "pierre van aertrijcke",
+   "nome_normalizado": "Pierre van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K063w"
+   ],
+   "datas": "",
+   "observacoes": "«Il mourut s[ans] enfant legit[ime]. gist a S[t] Donas. laissa un bastard Hector» (=K070)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K063w",
+   "coluna": 6,
+   "nome_original": "cath. de Spars[?]/d'Espars fi.a marq[?]",
+   "nome_normalizado": "Catherine d'Espars[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K063"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K064",
+   "coluna": 6,
+   "nome_original": "petronelle aertrijcke abbesse de S[t] Trudo a Bruges",
+   "nome_normalizado": "Petronelle van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "abadessa de Sint-Trudo, Bruges",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K065",
+   "coluna": 7,
+   "nome_original": "pieter",
+   "nome_normalizado": "Pieter van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "«mort jeune»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K066",
+   "coluna": 7,
+   "nome_original": "marie",
+   "nome_normalizado": "Marie van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "religiosa em Argent[e]au[?]",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "«religieuse a argentdau[?]» — provavelmente Argenteau",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K067",
+   "coluna": 7,
+   "nome_original": "pierre van aertrijcke",
+   "nome_normalizado": "Pierre van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K067w"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K067w",
+   "coluna": 7,
+   "nome_original": "adrienne Uyt[t]enh[?] fi.a frans",
+   "nome_normalizado": "Adrienne Uytenh[ove?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K067"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K068",
+   "coluna": 7,
+   "nome_original": "p[i]eronelle aertrijcke",
+   "nome_normalizado": "Pieronelle van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K068m"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K068m",
+   "coluna": 7,
+   "nome_original": "Jan coolbrant",
+   "nome_normalizado": "Jan Coolbrant",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K068"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K069",
+   "coluna": 7,
+   "nome_original": "barbe aertrijcke",
+   "nome_normalizado": "Barbe van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K069a",
+    "K069b"
+   ],
+   "datas": "ob. 1526",
+   "observacoes": "«Elle obiit 1526. gist au Beguinage a Bruges»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K069a",
+   "coluna": 7,
+   "nome_original": "Jacques Robel[?] filz Jean",
+   "nome_normalizado": "Jacques Robel[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K069"
+   ],
+   "datas": "",
+   "observacoes": "1º marido",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K069b",
+   "coluna": 7,
+   "nome_original": "Jacques de Cleircq[?]",
+   "nome_normalizado": "Jacques de Cle[i]rcq[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K069"
+   ],
+   "datas": "",
+   "observacoes": "2º marido",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K070",
+   "coluna": 7,
+   "nome_original": "Hector d'aertrijcke",
+   "nome_normalizado": "Hector d'Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K070w"
+   ],
+   "datas": "",
+   "observacoes": "DECLARADO «bastard de Pierre» (=K063)",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K070w",
+   "coluna": 7,
+   "nome_original": "cornelie Licuiart[?] fi.a Jean",
+   "nome_normalizado": "Cornelie [?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K070"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K071",
+   "coluna": 8,
+   "nome_original": "barbe aertrijcke",
+   "nome_normalizado": "Barbe van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K071m"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K071m",
+   "coluna": 8,
+   "nome_original": "michel de Quicquelberghe d'Audenard[e]",
+   "nome_normalizado": "Michel de Quicquelberghe",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K071"
+   ],
+   "datas": "",
+   "observacoes": "de Audenarde",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K072",
+   "coluna": 8,
+   "nome_original": "Jacq.",
+   "nome_normalizado": "Jacques",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Sob chave com K073/K074: «ob. s. Inf.»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K073",
+   "coluna": 8,
+   "nome_original": "corneille",
+   "nome_normalizado": "Corneille",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Sob chave: «ob. s. Inf.»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K074",
+   "coluna": 8,
+   "nome_original": "Jan",
+   "nome_normalizado": "Jan",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Sob chave: «ob. s. Inf.»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K075",
+   "coluna": 8,
+   "nome_original": "anne robe",
+   "nome_normalizado": "Anne Robe",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K075m"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K075m",
+   "coluna": 8,
+   "nome_original": "m[aitr]e[?] Jacq. vander Bossijne",
+   "nome_normalizado": "Jacques vander Bossijne",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K075"
+   ],
+   "datas": "m. 1529",
+   "observacoes": "«mort 1529. gist aux Carmes»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K076",
+   "coluna": 8,
+   "nome_original": "barbe robe",
+   "nome_normalizado": "Barbe Robe",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K076m"
+   ],
+   "datas": "",
+   "observacoes": "«s. Inf.»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K076m",
+   "coluna": 8,
+   "nome_original": "corneille alij colard gistelin[?]",
+   "nome_normalizado": "Corneille dito Colard [?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K076"
+   ],
+   "datas": "",
+   "observacoes": "de Bruges",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K077",
+   "coluna": 8,
+   "nome_original": "cornelie [?]",
+   "nome_normalizado": "Cornelie [?]",
+   "sexo": "F",
+   "cargo_estado": "religiosa[?]",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "baixa",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K078",
+   "coluna": 8,
+   "nome_original": "ᵽhll[e] van aertrijcke",
+   "nome_normalizado": "Philippe[?] van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "[pro]visor/escolatre no Beguinage de Bruxelas",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K079",
+   "coluna": 8,
+   "nome_original": "pierre van aertrijcke",
+   "nome_normalizado": "Pierre van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K079w"
+   ],
+   "datas": "",
+   "observacoes": "Verbete com varias linhas de leitura incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K079w",
+   "coluna": 8,
+   "nome_original": "marg[uerit]e vande [Bo]echoute[?]",
+   "nome_normalizado": "Marguerite vande Boechoute[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K079"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K080",
+   "coluna": 8,
+   "nome_original": "cornille aertrijcke",
+   "nome_normalizado": "Corneille van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K080w"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K080w",
+   "coluna": 8,
+   "nome_original": "marie Gheeraerdts[?]",
+   "nome_normalizado": "Marie Gheeraerdts[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K080"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K081",
+   "coluna": 9,
+   "nome_original": "cornelie van quicquelberghe",
+   "nome_normalizado": "Cornelie van Quicquelberghe",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K081m"
+   ],
+   "datas": "",
+   "observacoes": "Ramo colateral Quicquelberghe",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K081m",
+   "coluna": 9,
+   "nome_original": "gerard pelin[?] filz de pieter de gand",
+   "nome_normalizado": "Gerard Pelin[?], filho de Pieter, de Gand",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K081"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K082",
+   "coluna": 9,
+   "nome_original": "cornille van aertrijcke",
+   "nome_normalizado": "Corneille van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K082w"
+   ],
+   "datas": "",
+   "observacoes": "«a tournay»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K082w",
+   "coluna": 9,
+   "nome_original": "cath[?] annotdai[?]",
+   "nome_normalizado": "[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K082"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K083",
+   "coluna": 9,
+   "nome_original": "remy[?] van aertrijcke",
+   "nome_normalizado": "Remy[?] van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K083w"
+   ],
+   "datas": "",
+   "observacoes": "«s. Inf.»",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K083w",
+   "coluna": 9,
+   "nome_original": "cath. crum[?] maelfaict",
+   "nome_normalizado": "Catherine Maelfaict[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K083"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K084",
+   "coluna": 9,
+   "nome_original": "Josine[?]",
+   "nome_normalizado": "Josine[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K084m"
+   ],
+   "datas": "",
+   "observacoes": "«s. Inf.» — NOME FEMININO da familia Joss-",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K084m",
+   "coluna": 9,
+   "nome_original": "pieter de Woode fi.z Jacq.",
+   "nome_normalizado": "Pieter de Woode",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K084"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K085",
+   "coluna": 9,
+   "nome_original": "richard maes d'oostende",
+   "nome_normalizado": "Richard Maes",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "de Oostende",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K086",
+   "coluna": 5,
+   "nome_original": "barbe fertins fi.a Josse",
+   "nome_normalizado": "Barbe Fertyns",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K052"
+   ],
+   "datas": "",
+   "observacoes": "ESPOSA de K052. «fi.a Josse» — Kerchof nomeia o pai JOSSE",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K087",
+   "coluna": 5,
+   "nome_original": "Josse [Fertins]",
+   "nome_normalizado": "Josse Fertyns",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Pai de K086. NAO e um Aertrycke. Unica ocorrencia masculina Joss- do folio",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K088",
+   "coluna": 5,
+   "nome_original": "m[essi]re georges aertrijcke relig. a b[?]equier[?] p[?] Simon",
+   "nome_normalizado": "Georges van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "religioso",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Leitura da casa religiosa incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K089",
+   "coluna": 5,
+   "nome_original": "marg[uerit]e sp. p[ier]re[?] du[?] de camp Rijs[?]",
+   "nome_normalizado": "Marguerite van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K089m"
+   ],
+   "datas": "",
+   "observacoes": "«gist a S[t] Sauveur»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K089m",
+   "coluna": 5,
+   "nome_original": "p[ier]re[?] de camp Rijs[?]",
+   "nome_normalizado": "[?] de Camprijs[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K089"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K090",
+   "coluna": 5,
+   "nome_original": "barbe sp. p[?] Jan d[?] Albitte[?] fi.z Jean",
+   "nome_normalizado": "Barbe van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K090m"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K090m",
+   "coluna": 5,
+   "nome_original": "Jan [d']Albitte[?] fi.z Jean",
+   "nome_normalizado": "Jan d'Albitte[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K090"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K091",
+   "coluna": 5,
+   "nome_original": "cath. mort[e] 1429",
+   "nome_normalizado": "Catherine van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K091a",
+    "K091b"
+   ],
+   "datas": "m. 1429",
+   "observacoes": "«gist aux Jacobins». Dois casamentos; nomes dos maridos de leitura muito incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K091a",
+   "coluna": 5,
+   "nome_original": "m[?]ssi[re] galdas[?]",
+   "nome_normalizado": "[ilegivel]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K091"
+   ],
+   "datas": "",
+   "observacoes": "1º marido; leitura falhou",
+   "grau_certeza_estrutura": "baixa",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K091b",
+   "coluna": 5,
+   "nome_original": "thi[er]ij[?] de Bessert[?] d[?] onghebrede[?]",
+   "nome_normalizado": "Thierry[?] de [?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K091"
+   ],
+   "datas": "",
+   "observacoes": "2º marido",
+   "grau_certeza_estrutura": "baixa",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K092",
+   "coluna": 5,
+   "nome_original": "marg[uerit]e relig. a S[t]e Claire",
+   "nome_normalizado": "Marguerite van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "religiosa, Ste-Claire",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K093",
+   "coluna": 6,
+   "nome_original": "anne aertrijcke",
+   "nome_normalizado": "Anne van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K094"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K094",
+   "coluna": 6,
+   "nome_original": "Jan Bave fi.z Jehan",
+   "nome_normalizado": "Jan Bave, filho de Jehan",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K093"
+   ],
+   "datas": "",
+   "observacoes": "Kerchof NOMEIA o pai de Jan Bave: Jehan",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K095",
+   "coluna": 4,
+   "nome_original": "Jacques van aertrijcke mort 1400",
+   "nome_normalizado": "Jacques van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K096"
+   ],
+   "datas": "m. 1400",
+   "observacoes": "«gist a Lof[f]elem[?]»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K096",
+   "coluna": 4,
+   "nome_original": "marie van Halle fi.a g[h]illes",
+   "nome_normalizado": "Marie van Halle",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K095"
+   ],
+   "datas": "",
+   "observacoes": "«et de . . . . coudenbrouck»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K097",
+   "coluna": 4,
+   "nome_original": "[Ha]beau[?]",
+   "nome_normalizado": "[Ha]beau[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K097a",
+    "K097b"
+   ],
+   "datas": "",
+   "observacoes": "Dois casamentos",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K097a",
+   "coluna": 4,
+   "nome_original": "michiel van assendie[?] fi.z michiel",
+   "nome_normalizado": "Michiel van Assendie[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K097"
+   ],
+   "datas": "",
+   "observacoes": "1º marido; ha uma rasura no folio",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K097b",
+   "coluna": 4,
+   "nome_original": "Jehan Buijdicle[?] fi.z Jan",
+   "nome_normalizado": "Jehan Buijdicle[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K097"
+   ],
+   "datas": "",
+   "observacoes": "2º marido",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K098",
+   "coluna": 4,
+   "nome_original": "beatrix",
+   "nome_normalizado": "Beatrix van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K098a",
+    "K098b"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K098a",
+   "coluna": 4,
+   "nome_original": "Jan van Baghelu[?] fi.z Jacq",
+   "nome_normalizado": "Jan van Baghel[?]",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K098"
+   ],
+   "datas": "",
+   "observacoes": "1º marido",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K098b",
+   "coluna": 4,
+   "nome_original": "g[h]illes de Loo",
+   "nome_normalizado": "Ghilles de Loo",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K098"
+   ],
+   "datas": "",
+   "observacoes": "2º marido; segue «messire nicolas [B?]ell[?]»",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "media"
+  },
+  {
+   "K_ID": "K099",
+   "coluna": 4,
+   "nome_original": "[Phi]l[ipp]e[?] sp. margriete [p]illes[?] Jour[?]",
+   "nome_normalizado": "Philippe[?] van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K099w"
+   ],
+   "datas": "",
+   "observacoes": "«dont Pieter, Simon, Flandres[?], Jacq, Jenne»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K099w",
+   "coluna": 4,
+   "nome_original": "margriete [p]illes[?] ... [Jac]q. Braddricx[?]",
+   "nome_normalizado": "Marguerite [?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K099"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K100",
+   "coluna": 4,
+   "nome_original": "Pieter",
+   "nome_normalizado": "Pieter van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filho de K099, declarado por «dont»",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K101",
+   "coluna": 4,
+   "nome_original": "Simon",
+   "nome_normalizado": "Simon van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filho de K099",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K102",
+   "coluna": 4,
+   "nome_original": "Flandres[?]",
+   "nome_normalizado": "[Flandres?]",
+   "sexo": "",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filho/a de K099; leitura do nome incerta",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K103",
+   "coluna": 4,
+   "nome_original": "Jacq.",
+   "nome_normalizado": "Jacques van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filho de K099",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K104",
+   "coluna": 4,
+   "nome_original": "Jenne",
+   "nome_normalizado": "Jenne van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "filha de K099",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K105",
+   "coluna": 5,
+   "nome_original": "Jan van Rechteberghe",
+   "nome_normalizado": "Jan van Rechteberghe",
+   "sexo": "M",
+   "cargo_estado": "tutor",
+   "conjuges": [],
+   "datas": "1375",
+   "observacoes": "«fut tuteur des infans de Simon van aertrijcke 1375» — SEGUNDA tutela declarada no folio",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K106",
+   "coluna": 4,
+   "nome_original": "cath. morte 1380",
+   "nome_normalizado": "Catherine van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "m. 1380",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K107",
+   "coluna": 10,
+   "nome_original": "marg[uerit]e van aertrijcke sp. Henry de Groof",
+   "nome_normalizado": "Marguerite van Aertrycke",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K107m"
+   ],
+   "datas": "",
+   "observacoes": "Coluna 10, revelada por R2C4",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K107m",
+   "coluna": 10,
+   "nome_original": "Henry de Groof",
+   "nome_normalizado": "Henry de Groof",
+   "sexo": "M",
+   "cargo_estado": "",
+   "conjuges": [
+    "K107"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  },
+  {
+   "K_ID": "K108",
+   "coluna": 9,
+   "nome_original": "Jan van aertrijcke tresorier de Bruges au roij ph[?]",
+   "nome_normalizado": "Jan van Aertrycke",
+   "sexo": "M",
+   "cargo_estado": "tresorier de Bruges",
+   "conjuges": [
+    "K108w"
+   ],
+   "datas": "",
+   "observacoes": "«au roij ph[?]» — serviço regio, leitura incerta",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K108w",
+   "coluna": 9,
+   "nome_original": "marie de [Ba]esdorp[?] fi.a cornelles",
+   "nome_normalizado": "Marie de Baesdorp[?]",
+   "sexo": "F",
+   "cargo_estado": "",
+   "conjuges": [
+    "K108"
+   ],
+   "datas": "",
+   "observacoes": "",
+   "grau_certeza_estrutura": "media",
+   "grau_certeza_leitura": "baixa"
+  },
+  {
+   "K_ID": "K109",
+   "coluna": 9,
+   "nome_original": "plus[ieu]rs enfans morts jeunes",
+   "nome_normalizado": "[grupo anonimo]",
+   "sexo": "",
+   "cargo_estado": "",
+   "conjuges": [],
+   "datas": "",
+   "observacoes": "Grupo coletivo sem nomes — NAO criar perfis individuais",
+   "grau_certeza_estrutura": "alta",
+   "grau_certeza_leitura": "alta"
+  }
+ ],
+ "relacoes_explicitas_no_manuscrito": [
+  {
+   "tipo": "irmao",
+   "de": "K024",
+   "para": "Simon [nao identificado com certeza entre K003/K026]",
+   "texto": "fut tuteur des infans de Simon son frere",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai",
+   "de": "K015",
+   "para": "K016",
+   "texto": "dont Jean",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai_de_bastarda",
+   "de": "K036",
+   "para": "K038",
+   "texto": "Il eut une fille bastarde Alexandrine",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai_de_bastardo",
+   "de": "K063",
+   "para": "K070",
+   "texto": "laissa un bastard Hector / Hector bastard de Pierre",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai",
+   "de": "K032",
+   "para": "K034",
+   "texto": "dont Marguerite qui sp. Loijs van der Straeten",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "irmaos_mesmo_colchete",
+   "membros": [
+    "K054",
+    "K055",
+    "K056",
+    "K057",
+    "K058"
+   ],
+   "certeza": "alta"
+  },
+  {
+   "tipo": "irmaos_mesmo_colchete",
+   "membros": [
+    "K072",
+    "K073",
+    "K074"
+   ],
+   "nota": "ob. s. Inf.",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "conjuges",
+   "de": "K052",
+   "para": "K086",
+   "texto": "Jan van aertrijcke eschevin de Bruges 1441 ... sp. barbe fertins fi.a Josse",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai",
+   "de": "K087",
+   "para": "K086",
+   "texto": "barbe fertins fi.a Josse",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai",
+   "de": "K099",
+   "para": [
+    "K100",
+    "K101",
+    "K102",
+    "K103",
+    "K104"
+   ],
+   "texto": "dont Pieter, Simon, Flandres[?], Jacq, Jenne",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "tutela",
+   "de": "K105",
+   "para": "filhos de Simon van Aertrijcke",
+   "texto": "fut tuteur des infans de Simon van aertrijcke 1375",
+   "certeza": "alta"
+  },
+  {
+   "tipo": "pai",
+   "de": "K094_pai_Jehan",
+   "para": "K094",
+   "texto": "Jan Bave fi.z Jehan",
+   "certeza": "alta"
+  }
+ ]
+}

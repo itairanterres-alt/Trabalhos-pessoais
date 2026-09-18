@@ -1,0 +1,195 @@
+{
+  "source": "B_OB_MS728_Aertrycke_A9r.tif",
+  "source_dimensions": [
+    5205,
+    4077
+  ],
+  "grid": {
+    "rows": 3,
+    "cols": 4,
+    "overlap_fraction": 0.12
+  },
+  "note": "Cada tile inclui 12% de sobreposição com os vizinhos para preservar linhas genealógicas e textos que cruzam bordas.",
+  "tiles": [
+    {
+      "file": "A9r_R1C1.png",
+      "row": 1,
+      "col": 1,
+      "crop_pixels": [
+        0,
+        0,
+        1457,
+        1522
+      ],
+      "size": [
+        1457,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R1C2.png",
+      "row": 1,
+      "col": 2,
+      "crop_pixels": [
+        1145,
+        0,
+        2759,
+        1522
+      ],
+      "size": [
+        1614,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R1C3.png",
+      "row": 1,
+      "col": 3,
+      "crop_pixels": [
+        2446,
+        0,
+        4060,
+        1522
+      ],
+      "size": [
+        1614,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R1C4.png",
+      "row": 1,
+      "col": 4,
+      "crop_pixels": [
+        3748,
+        0,
+        5205,
+        1522
+      ],
+      "size": [
+        1457,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R2C1.png",
+      "row": 2,
+      "col": 1,
+      "crop_pixels": [
+        0,
+        1196,
+        1457,
+        2881
+      ],
+      "size": [
+        1457,
+        1685
+      ]
+    },
+    {
+      "file": "A9r_R2C2.png",
+      "row": 2,
+      "col": 2,
+      "crop_pixels": [
+        1145,
+        1196,
+        2759,
+        2881
+      ],
+      "size": [
+        1614,
+        1685
+      ]
+    },
+    {
+      "file": "A9r_R2C3.png",
+      "row": 2,
+      "col": 3,
+      "crop_pixels": [
+        2446,
+        1196,
+        4060,
+        2881
+      ],
+      "size": [
+        1614,
+        1685
+      ]
+    },
+    {
+      "file": "A9r_R2C4.png",
+      "row": 2,
+      "col": 4,
+      "crop_pixels": [
+        3748,
+        1196,
+        5205,
+        2881
+      ],
+      "size": [
+        1457,
+        1685
+      ]
+    },
+    {
+      "file": "A9r_R3C1.png",
+      "row": 3,
+      "col": 1,
+      "crop_pixels": [
+        0,
+        2555,
+        1457,
+        4077
+      ],
+      "size": [
+        1457,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R3C2.png",
+      "row": 3,
+      "col": 2,
+      "crop_pixels": [
+        1145,
+        2555,
+        2759,
+        4077
+      ],
+      "size": [
+        1614,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R3C3.png",
+      "row": 3,
+      "col": 3,
+      "crop_pixels": [
+        2446,
+        2555,
+        4060,
+        4077
+      ],
+      "size": [
+        1614,
+        1522
+      ]
+    },
+    {
+      "file": "A9r_R3C4.png",
+      "row": 3,
+      "col": 4,
+      "crop_pixels": [
+        3748,
+        2555,
+        5205,
+        4077
+      ],
+      "size": [
+        1457,
+        1522
+      ]
+    }
+  ]
+}

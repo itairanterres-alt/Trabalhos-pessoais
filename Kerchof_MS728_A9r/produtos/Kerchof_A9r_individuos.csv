@@ -1,0 +1,146 @@
+K_ID,coluna,nome_original,nome_normalizado,sexo,cargo_estado,conjuges_K,datas,observacoes,certeza_estrutura,certeza_leitura
+K001,1,Simon van aertrijcke,Simon van Aertrycke,M,eschevin de Bruges,K002,1331,"Armas da esposa descritas ao lado: «croix d'or, accomp. de 20 billettes de mesme»",alta,alta
+K002,1,[nome em branco] fi.a Bernard dop[?],"[?] , filha de Bernard D'Op[?]",F,,K001,,Kerchof deixou o prenome em branco (pontilhado). Patronimo «dop»/«d'Op» incerto,alta,baixa
+K003,2,Simon van aertrijcke bourgmr de Bruges,Simon van Aertrycke,M,bourgmestre de Bruges,K004,m. 1360,"«Il mourut 1360, gist a S[t] Sauveur devant el grand autel»",alta,alta
+K004,2,Hab[i]ter[?] fi.a messire pieter q. de maldeghem,[Ha]biter[?] de Maldeghem,F,,K003,,filha de messire Pieter [quondam] de Maldeghem,alta,media
+K005,2,gi'ellis d'aertrijcke bourgmr de Bruges 1333,Gillis/Ghiselin d'Aertrycke,M,bourgmestre de Bruges,,1333,Sem esposa e sem filhos desenhados no fólio,alta,media
+K006,2,Ligaarde aertrijcke,Ligarde van Aertrycke,F,,K007,,,alta,alta
+K007,2,Jan al bendonc[?] filz de Jacq.,"Jan Al[be]ndonc[?], filho de Jacques",M,,K006,,Sobrenome do marido de leitura incerta,alta,baixa
+K008,2,cath. aertrijcke relig. a S[t]e claire a gand,Catherine van Aertrycke,F,"religiosa, Ste-Claire, Gand",,,,alta,alta
+K009,2,Bernard van aertrijcke eschevin de Bruges,Bernard van Aertrycke,M,eschevin de Bruges,K010;K011,,Dois casamentos declarados,alta,alta
+K010,2,marie bonin fi.a Lambert,Marie Bonin,F,,K009,,,alta,alta
+K011,2,Cecilie de Rechteberghe fi.a Gilles,Cecilie de Rechteberghe,F,,K009,,Linha final do verbete ilegivel: «alli[e]/enterr[e] a +de doussy[?]»,alta,baixa
+K012,3,messire pieter van aertrijcke,Pieter van Aertrycke,M,messire,K013;K014,,«gist [aupres?] de son pere» — leitura incerta,alta,media
+K013,3,[em branco] Utenhove,[?] Utenhove,F,,K012,,1º casamento; prenome em branco,alta,media
+K014,3,[em branco],[?],F,,K012,,2º casamento; nome inteiramente em branco,alta,alta
+K015,3,Loijs van aertrijcke,Loijs van Aertrycke,M,,,,«dont Jean» — declara um filho chamado Jean (K016),alta,alta
+K016,3,Jean,Jean van Aertrycke,M,,,,"filho de K015, declarado por «dont Jean»",alta,alta
+K017,3,Beatrix d'aertrijcke,Beatrix d'Aertrycke,F,,K018,,,alta,alta
+K018,3,andrieu Bardelaes[?],Andrieu Bardelaes[?],M,,K017,m. 1342,"«mort 1342, gist au chapitre des jacobins»",alta,media
+K019,3,Jan albendo.cn[?],Jan Al[be]ndonc[?],M,,,,Ocorrencia homonima de K007 — NAO fundir sem prova,media,baixa
+K020,3,marie relig. a sp. damai[?]der,Marie,F,religiosa,,,Casa religiosa de leitura incerta,media,baixa
+K021,3,Isabelle,Isabelle,F,,,,Nome isolado sob colchete,media,alta
+K022,3,Jan van aertrijcke tresorier de Bruges,Jan van Aertrycke,M,tresorier de Bruges,K023,1363;1393,Rubrica «1. Lict». «mort 1363 et luij 1393»; doacao a Bruges a entrada da igreja e aniversario,alta,media
+K023,3,Hab[i]er[?] de [H]aeslan[?] fi.a robert,[?] de Ha[e]slant[?],F,,K022,,,alta,baixa
+K024,3,georges van aertrijcke eschevin de Bruges,Georges van Aertrycke,M,eschevin de Bruges,,1356,RELACAO EXPLICITA: «fut tuteur des infans de Simon son frere» — irmao de um Simon,alta,alta
+K025,3,Jan van aertrijcke,Jan van Aertrycke,M,,K0251,ob. 1355,Rubrica «2. Lict»,alta,media
+K0251,3,Barbe[?] de [T]olpelar[?] fi.a guill[aum]e[?],[?],F,,K025,,Leitura do sobrenome muito incerta,media,baixa
+K026,3,Simon van aertrijcke,Simon van Aertrycke,M,,,ob. 1371,«ob. [i]a dô 1371»,alta,alta
+K027,3,Cath. aertrijcke,Catherine van Aertrycke,F,,K0271,1391/1395[?],,alta,media
+K0271,3,Jan van R[e]chte[r]berghe fi.z Bartholomé,Jan van Re[ch]te[r]berghe[?],M,,K027,m. 1391/1395[?],Ano final de leitura incerta; «gist au Beguinage[?]»,media,baixa
+K028,4,[X]poffer[?]/pieter van aertrijcke,Christoffel[?] / Pieter van Aertrycke,M,,K029w,,Rubrica «1. Lict». Ha uma INSERCAO SUPERSCRITA «xpoffer» (=Christoffel) sobre o nome — Kerchof corrigiu ou acrescentou. «gist aux augustins»,alta,baixa
+K029w,4,Loijse mettencije[?] fi.a Jan et d'Isabeau Buly[?],Loijse Metteneye[?],F,,K028,,Sobrenome lido como Metteneye com reserva,alta,baixa
+K029,4,Jan van aertrijcke sr. de Tillegem,Jan van Aertrycke,M,seigneur de Tillegem,K030;K031,,PRIMEIRO individuo que Kerchof chama senhor de Tillegem no fólio (col.4),alta,alta
+K030,4,Walburge van de Walle fi.a Sohier[?],Walburga van de Walle,F,,K029,,,alta,media
+K031,4,Marg[uerit]e [em branco],Marguerite [?],F,,K029,,2º casamento («Il sp. 2º»),alta,media
+K032,4,Amand d'aertrijcke Sr. de Maldeghem,Amand d'Aertrycke,M,seigneur de Maldeghem,K033,,Rubrica «2. Lict». «gist a S[t] Sauveur a Bruges»,alta,media
+K033,4,anne de Vleeschhauwer,Anne de Vleeschauwer,F,,K032,,,alta,alta
+K034,4,marg[uerit]e qui sp. Loijs van der Straeten,Marguerite d'Aertrycke,F,,K034m,,«dont Marguerite qui sp. Loijs van der Straeten» — filiacao declarada no proprio verbete,alta,media
+K034m,4,Loijs van der Straeten,Loijs van der Straeten,M,,K034,,,alta,alta
+K035,4,robert,Robert van Aertrycke,M,,,,«ob. s. Inf.» (sem descendencia). «gist pres de sa mere a la cimetiere de S[t] Donas»,alta,alta
+K036,4,bernard aertrijcke,Bernard van Aertrycke,M,,K037,,«s. Inf.» de K037; «Il eut une fille bastarde Alexandrine»,alta,alta
+K037,4,Isabelle bonin fi.a thomas,Isabelle Bonin,F,,K036,,"LEITURA CORRIGIDA: antes lida «de Comines»; o fólio traz «Bonin», como em K010",alta,media
+K038,4,alexandrine,Alexandrine van Aertrycke,F,beguina,,,DECLARADA BASTARDA de K036 («une fille bastarde»),alta,media
+K039,4,georges aertrijcke eschevin de Bruges,Georges van Aertrycke,M,eschevin de Bruges,K040,1378,,alta,alta
+K040,4,cornelie a[l]soens[?] fi.a olivier,Cornelie Alsoens[?],F,,K039,,Leitura do sobrenome incerta no manuscrito,alta,baixa
+K041,5,ᵽhls van aertrijcke bourgmr de Bruges,Philips van Aertrycke,M,bourgmestre de Bruges,K042,m. 1461,«Il mourut 1461. gist a N[ost]re Dame a Bruges»,alta,media
+K042,5,anne fi.a eustache Reindricx[?],Anne Reindricx[?],F,,K041,,,alta,baixa
+K043,5,Jan van aertrijcke sr. de Tilleghem,Jan van Aertrycke,M,seigneur de Tillegem,K044,,"Rubrica «1. Lict». SEGUNDO senhor de Tillegem no fólio, em coluna posterior a K029",alta,alta
+K044,5,cath. metteneije fi.a pieter,Catherine Metteneye,F,,K043,,«gist aux augustins a Bruges»,alta,media
+K045,5,mad loijse van aertrijcke,Loijse van Aertrycke,F,,,,«gist a S[t] Michel lez Bruges»,alta,media
+K046,5,ᵽhls d'aertrijcke,Philips d'Aertrycke,M,,,,Esposa em branco (pontilhado),alta,media
+K047,5,[Ha]beau[?],[Ha]beau[?],F,,K047a;K047b,,Dois casamentos declarados,alta,baixa
+K047a,5,Jan van der muelen conseiller de flandres,Jan van der Muelen,M,conseiller de Flandres,K047,,1º marido,alta,media
+K047b,5,andrieu van Roonenbeke,Andrieu van Roonenbeke,M,,K047,,2º marido,alta,media
+K048,5,Jehenne[?],Jehenne[?],F,,K048m,,,media,baixa
+K048m,5,Balduin[?] ... prevost a Lille,Bal[d]uin[?],M,prevost a Lille,K048,,,media,baixa
+K049,5,Jan van aertrijcke,Jan van Aertrycke,M,,,,Rubrica «2. Lict»; sem mais dados,alta,alta
+K050,5,Jadequet[?]/Jacquet van aertrijcke,Jacques van Aertrycke,M,eschevin,1416,1416,«eschevin en 1416»,alta,media
+K051,5,george aertrijcke,Georges van Aertrycke,M,,,1413,Apenas nome e ano,alta,alta
+K052,5,Jan van aertrijcke eschevin de Bruges,Jan van Aertrycke,M,eschevin de Bruges,,1441,,alta,alta
+K053,6,ᵽhll[e] aertrijcke,Philippe[?] van Aertrycke,M,,K054w,,,alta,baixa
+K054w,6,marie van de Bossijne[?] fi.a eustache,Marie van de Bossijne[?],F,,K053,,,alta,baixa
+K054,6,ᵽhll d'aertrijcke,Philippe[?] d'Aertrycke,M,,,,Primeiro de uma lista de 5 irmaos sob colchete unico,alta,baixa
+K055,6,thomas,Thomas van Aertrycke,M,,,,irmao (mesmo colchete de K054),alta,alta
+K056,6,Jehan,Jehan van Aertrycke,M,,,,irmao (mesmo colchete),alta,alta
+K057,6,Loijs,Loijs van Aertrycke,M,,,,irmao (mesmo colchete),alta,alta
+K058,6,Bernard,Bernard van Aertrycke,M,,,,irmao (mesmo colchete),alta,alta
+K059,6,pierend[?] pardvoss[?] relig.,[?],,religioso/a,,,Leitura muito incerta,baixa,baixa
+K060,6,Loijs,Loijs,M,,,,,media,alta
+K061,6,Bartholomé du [?],Bartholomé,M,,K061w,,,media,media
+K061w,6,eustache Rollebeghe[?] fi.z guils[?]aerin,[?] Rollebeke[?],,,K061,,,media,baixa
+K062,6,Nicolas van aertrijcke,Nicolas van Aertrycke,M,,K062w,,,alta,alta
+K062w,6,Jehanne veld[?]s fi.a gauthier de [?] a Papinjcke[?],Jehanne [?],F,,K062,,,alta,baixa
+K063,6,pierre van aertrijcke,Pierre van Aertrycke,M,,K063w,,«Il mourut s[ans] enfant legit[ime]. gist a S[t] Donas. laissa un bastard Hector» (=K070),alta,alta
+K063w,6,cath. de Spars[?]/d'Espars fi.a marq[?],Catherine d'Espars[?],F,,K063,,,alta,baixa
+K064,6,petronelle aertrijcke abbesse de S[t] Trudo a Bruges,Petronelle van Aertrycke,F,"abadessa de Sint-Trudo, Bruges",,,,alta,alta
+K065,7,pieter,Pieter van Aertrycke,M,,,,«mort jeune»,alta,alta
+K066,7,marie,Marie van Aertrycke,F,religiosa em Argent[e]au[?],,,«religieuse a argentdau[?]» — provavelmente Argenteau,alta,media
+K067,7,pierre van aertrijcke,Pierre van Aertrycke,M,,K067w,,,alta,alta
+K067w,7,adrienne Uyt[t]enh[?] fi.a frans,Adrienne Uytenh[ove?],F,,K067,,,alta,baixa
+K068,7,p[i]eronelle aertrijcke,Pieronelle van Aertrycke,F,,K068m,,,alta,media
+K068m,7,Jan coolbrant,Jan Coolbrant,M,,K068,,,alta,alta
+K069,7,barbe aertrijcke,Barbe van Aertrycke,F,,K069a;K069b,ob. 1526,«Elle obiit 1526. gist au Beguinage a Bruges»,alta,alta
+K069a,7,Jacques Robel[?] filz Jean,Jacques Robel[?],M,,K069,,1º marido,alta,baixa
+K069b,7,Jacques de Cleircq[?],Jacques de Cle[i]rcq[?],M,,K069,,2º marido,alta,media
+K070,7,Hector d'aertrijcke,Hector d'Aertrycke,M,,K070w,,DECLARADO «bastard de Pierre» (=K063),alta,alta
+K070w,7,cornelie Licuiart[?] fi.a Jean,Cornelie [?],F,,K070,,,alta,baixa
+K071,8,barbe aertrijcke,Barbe van Aertrycke,F,,K071m,,,alta,alta
+K071m,8,michel de Quicquelberghe d'Audenard[e],Michel de Quicquelberghe,M,,K071,,de Audenarde,alta,alta
+K072,8,Jacq.,Jacques,M,,,,Sob chave com K073/K074: «ob. s. Inf.»,alta,alta
+K073,8,corneille,Corneille,M,,,,Sob chave: «ob. s. Inf.»,alta,alta
+K074,8,Jan,Jan,M,,,,Sob chave: «ob. s. Inf.»,alta,alta
+K075,8,anne robe,Anne Robe,F,,K075m,,,alta,alta
+K075m,8,m[aitr]e[?] Jacq. vander Bossijne,Jacques vander Bossijne,M,,K075,m. 1529,«mort 1529. gist aux Carmes»,alta,media
+K076,8,barbe robe,Barbe Robe,F,,K076m,,«s. Inf.»,alta,alta
+K076m,8,corneille alij colard gistelin[?],Corneille dito Colard [?],M,,K076,,de Bruges,media,baixa
+K077,8,cornelie [?],Cornelie [?],F,religiosa[?],,,,baixa,baixa
+K078,8,ᵽhll[e] van aertrijcke,Philippe[?] van Aertrycke,M,[pro]visor/escolatre no Beguinage de Bruxelas,,,,alta,baixa
+K079,8,pierre van aertrijcke,Pierre van Aertrycke,M,,K079w,,Verbete com varias linhas de leitura incerta,alta,baixa
+K079w,8,marg[uerit]e vande [Bo]echoute[?],Marguerite vande Boechoute[?],F,,K079,,,media,baixa
+K080,8,cornille aertrijcke,Corneille van Aertrycke,M,,K080w,,,alta,media
+K080w,8,marie Gheeraerdts[?],Marie Gheeraerdts[?],F,,K080,,,media,baixa
+K081,9,cornelie van quicquelberghe,Cornelie van Quicquelberghe,F,,K081m,,Ramo colateral Quicquelberghe,alta,alta
+K081m,9,gerard pelin[?] filz de pieter de gand,"Gerard Pelin[?], filho de Pieter, de Gand",M,,K081,,,alta,media
+K082,9,cornille van aertrijcke,Corneille van Aertrycke,M,,K082w,,«a tournay»,alta,media
+K082w,9,cath[?] annotdai[?],[?],F,,K082,,,media,baixa
+K083,9,remy[?] van aertrijcke,Remy[?] van Aertrycke,M,,K083w,,«s. Inf.»,media,baixa
+K083w,9,cath. crum[?] maelfaict,Catherine Maelfaict[?],F,,K083,,,media,baixa
+K084,9,Josine[?],Josine[?],F,,K084m,,«s. Inf.» — NOME FEMININO da familia Joss-,media,baixa
+K084m,9,pieter de Woode fi.z Jacq.,Pieter de Woode,M,,K084,,,alta,media
+K085,9,richard maes d'oostende,Richard Maes,M,,,,de Oostende,alta,media
+K086,5,barbe fertins fi.a Josse,Barbe Fertyns,F,,K052,,ESPOSA de K052. «fi.a Josse» — Kerchof nomeia o pai JOSSE,alta,alta
+K087,5,Josse [Fertins],Josse Fertyns,M,,,,Pai de K086. NAO e um Aertrycke. Unica ocorrencia masculina Joss- do folio,alta,alta
+K088,5,m[essi]re georges aertrijcke relig. a b[?]equier[?] p[?] Simon,Georges van Aertrycke,M,religioso,,,Leitura da casa religiosa incerta,alta,baixa
+K089,5,marg[uerit]e sp. p[ier]re[?] du[?] de camp Rijs[?],Marguerite van Aertrycke,F,,K089m,,«gist a S[t] Sauveur»,alta,baixa
+K089m,5,p[ier]re[?] de camp Rijs[?],[?] de Camprijs[?],M,,K089,,,media,baixa
+K090,5,barbe sp. p[?] Jan d[?] Albitte[?] fi.z Jean,Barbe van Aertrycke,F,,K090m,,,alta,baixa
+K090m,5,Jan [d']Albitte[?] fi.z Jean,Jan d'Albitte[?],M,,K090,,,media,baixa
+K091,5,cath. mort[e] 1429,Catherine van Aertrycke,F,,K091a;K091b,m. 1429,«gist aux Jacobins». Dois casamentos; nomes dos maridos de leitura muito incerta,alta,media
+K091a,5,m[?]ssi[re] galdas[?],[ilegivel],M,,K091,,1º marido; leitura falhou,baixa,baixa
+K091b,5,thi[er]ij[?] de Bessert[?] d[?] onghebrede[?],Thierry[?] de [?],M,,K091,,2º marido,baixa,baixa
+K092,5,marg[uerit]e relig. a S[t]e Claire,Marguerite van Aertrycke,F,"religiosa, Ste-Claire",,,,alta,alta
+K093,6,anne aertrijcke,Anne van Aertrycke,F,,K094,,,alta,alta
+K094,6,Jan Bave fi.z Jehan,"Jan Bave, filho de Jehan",M,,K093,,Kerchof NOMEIA o pai de Jan Bave: Jehan,alta,alta
+K095,4,Jacques van aertrijcke mort 1400,Jacques van Aertrycke,M,,K096,m. 1400,«gist a Lof[f]elem[?]»,alta,media
+K096,4,marie van Halle fi.a g[h]illes,Marie van Halle,F,,K095,,«et de . . . . coudenbrouck»,alta,media
+K097,4,[Ha]beau[?],[Ha]beau[?],F,,K097a;K097b,,Dois casamentos,alta,baixa
+K097a,4,michiel van assendie[?] fi.z michiel,Michiel van Assendie[?],M,,K097,,1º marido; ha uma rasura no folio,alta,baixa
+K097b,4,Jehan Buijdicle[?] fi.z Jan,Jehan Buijdicle[?],M,,K097,,2º marido,media,baixa
+K098,4,beatrix,Beatrix van Aertrycke,F,,K098a;K098b,,,alta,alta
+K098a,4,Jan van Baghelu[?] fi.z Jacq,Jan van Baghel[?],M,,K098,,1º marido,media,baixa
+K098b,4,g[h]illes de Loo,Ghilles de Loo,M,,K098,,2º marido; segue «messire nicolas [B?]ell[?]»,media,media
+K099,4,[Phi]l[ipp]e[?] sp. margriete [p]illes[?] Jour[?],Philippe[?] van Aertrycke,M,,K099w,,"«dont Pieter, Simon, Flandres[?], Jacq, Jenne»",alta,baixa
+K099w,4,margriete [p]illes[?] ... [Jac]q. Braddricx[?],Marguerite [?],F,,K099,,,media,baixa
+K100,4,Pieter,Pieter van Aertrycke,M,,,,"filho de K099, declarado por «dont»",alta,alta
+K101,4,Simon,Simon van Aertrycke,M,,,,filho de K099,alta,alta
+K102,4,Flandres[?],[Flandres?],,,,,filho/a de K099; leitura do nome incerta,media,baixa
+K103,4,Jacq.,Jacques van Aertrycke,M,,,,filho de K099,alta,alta
+K104,4,Jenne,Jenne van Aertrycke,F,,,,filha de K099,alta,alta
+K105,5,Jan van Rechteberghe,Jan van Rechteberghe,M,tutor,,1375,«fut tuteur des infans de Simon van aertrijcke 1375» — SEGUNDA tutela declarada no folio,alta,alta
+K106,4,cath. morte 1380,Catherine van Aertrycke,F,,,m. 1380,,alta,alta
+K107,10,marg[uerit]e van aertrijcke sp. Henry de Groof,Marguerite van Aertrycke,F,,K107m,,"Coluna 10, revelada por R2C4",alta,alta
+K107m,10,Henry de Groof,Henry de Groof,M,,K107,,,alta,alta
+K108,9,Jan van aertrijcke tresorier de Bruges au roij ph[?],Jan van Aertrycke,M,tresorier de Bruges,K108w,,"«au roij ph[?]» — serviço regio, leitura incerta",alta,baixa
+K108w,9,marie de [Ba]esdorp[?] fi.a cornelles,Marie de Baesdorp[?],F,,K108,,,media,baixa
+K109,9,plus[ieu]rs enfans morts jeunes,[grupo anonimo],,,,,Grupo coletivo sem nomes — NAO criar perfis individuais,alta,alta
