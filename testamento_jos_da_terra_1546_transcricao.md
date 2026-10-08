@@ -138,7 +138,7 @@ E não diz mais nem menos os ditos testamento e codicilo que aqui bem e fielment
 
 1. Leitura **Jos × Jorge** (nome do testador e do filho menor).
 2. **Filiação:** o testamento não informa. Busque nos registos notariais (Horta, 1546/1553), na Provedoria dos Resíduos e nos tombos das capelas.
-3. Palavra após "Pedro e Miguel meus…" (p. 8): "escravos" ou "bastardos".
+3. Palavra após "Pedro e Miguel meus…" (p. 8): lida como "estrauos" = **escravos** (grafia idêntica à das cl. 12–13; ver fichamento, seção 5.3). Provável, não certa.
 4. Apelido da sobrinha (**Ana de Brum**?) e a ligação de **Maria da Terra**.
 5. Relação de **Martim Henriques** e **Anna Jorge**.
 6. Quem são **Guilherme de Brum** e **António Silveira** (filhos de João Silveira, ou de outro?).
